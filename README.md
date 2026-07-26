@@ -1,2 +1,2 @@
 # This is my Local Repository.
-First repository in GitHub.
+First local repository in GitHub.
